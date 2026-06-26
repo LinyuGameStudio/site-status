@@ -51,7 +51,7 @@ const { siteIcp, version } = configPublic;
 
 const linkData = {
   github: "https://github.com/LinyuGameStudio/site-status",
-  home: "https://idc.linyugamestudio.fun",
+  home: "https://idc.linyugamestudio.fun/",
   email: "mailto:3578799956@qq.com",
 };
 </script>
